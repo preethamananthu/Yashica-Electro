@@ -1,1 +1,2 @@
-# Yashica-Electro
+# Yashica-Electro 
+Exercise project
